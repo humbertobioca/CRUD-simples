@@ -1,2 +1,2 @@
 # CRUD-simples
-CRUD simples utilizando C# e MySql
+CRUD simples utilizando C# e MySql!
